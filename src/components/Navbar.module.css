@@ -1,0 +1,12 @@
+.nav {
+  grid-area: n;
+  background: linear-gradient(to right, #396afc, #2948ff);
+}
+
+.item {
+  color: white;
+}
+
+.item.active {
+  color: gold;
+}
